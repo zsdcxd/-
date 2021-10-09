@@ -30,3 +30,6 @@ P = np.vstack(P_list)  # 总体荷载
 
 delta = np.dot(np.linalg.inv(K), P)  # 总体位移向量
 
+
+
+
